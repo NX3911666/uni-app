@@ -1,7 +1,6 @@
 <template>
   <view>
-    我是分类
-    
+    我是商品详情页
   </view>
 </template>
 
